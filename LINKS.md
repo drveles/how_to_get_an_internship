@@ -28,20 +28,96 @@
 ## Найди себя и цель
 
 - Сайт: [Дорожные карты профессий, roadmap.sh](https://roadmap.sh/)
-  
-Вакансии:
+- Сайт: Пример, дорожная карта тестировщика https://teletype.in/@how_to_code_web3/QA_Full_Roadmap
+
+Где ознакомиться с требованиями:
+
+- Сайт: **Топ 1 агрегатор вакансий в России** [HeadHunter, hh.ru](https://hh.ru)
+- Сайт: **Круглогодичные стажировки Яндекса** https://yandex.ru/yaintern/
+- Сайт: **Агреатор стажировок Futute Today**, fut.ru https://fut.ru/
+- Сайт: Агреатор IT стажировок Futute Today, it.fut.ru https://it.fut.ru/
+- Сайт: Карьерная платформа Changellenge https://changellenge.com/
+
+## Подбери свой трек обучения
+
+- Сайт: Школа 21 https://21-school.ru/
+- Сайт: Полезные материалы для подговки, Яндекс https://yandex.ru/yaintern/schools/useful
+
+Книги:
+
+- Канал: Книги для программистов: https://t.me/progbook
+- Канал: **Программирование | книги**: https://t.me/it_boooks
+- Канал: Архив книг канала Программирование | книги: https://t.me/+n3Ph3mPZBaxjZjEy
+- Сайт: Яндекс.Книги (ex. Букмейт) https://books.yandex.ru/
+
+Дополнительное образование:
+
+- Канал: **IT – Бесплатное обучение для студентов** https://t.me/competech
+- Сайт: Курсы на Stepik: https://stepik.org/catalog
+- Сайт: **Летние школы Яндекса**: https://yandex.ru/yaintern/schools/summer
+- Сайт: **Открытый лекторий Яндекса**: https://yandex.ru/yaintern/schools/open-lectures
+- Видео: Young && Yandex (записи лекций и летних школ) https://www.youtube.com/@Young_and_Yandex/playlists
+- Канал: Яндекс Образование https://t.me/Education_Yandex
+- Сайт: Т-Курсы https://education.tbank.ru/study/fintech/
+- Канал: T-Образование https://t.me/tbank_education
+- Сайт: WB Техношкола https://tech.wildberries.ru/
+- Сайт: OZON Route https://route256.ozon.ru/
+- Сайт: Академия аналитиков Авито https://www.avito-analytics-academy.ru/
+- Сайт: Школа анализа данных Яндекса https://shad.yandex.ru/
+- Сайт: Школа анализа данных МТС https://www.teta.mts.ru/analytics-school
+- Канал: VK Education https://t.me/vkeducation_about
+- Сайт: Академия Касперского https://academy.kaspersky.ru/
+- Сайт: Альфа Будущее https://alfabank.ru/alfafuture/
+
+Пет–проекты:
+
+- Статья: 18 идей pet-проектов для digital-специалистов https://www.unisender.com/ru/blog/idei-pet-proektov-dlya-digital-specialistov/
+- Статья: Pet-проект: как его создать и где взять идеи, Практикум https://practicum.yandex.ru/blog/chto-takoe-pet-proekty-idei-dlya-novichkov/
+- Видео: Shorts Артема Шумейко –– Где взять идею для пет проекта https://youtube.com/shorts/MPGZxbHaw5w
+- GitHub: Пример нашего с Захаром пет-проекта: Телеграм бот для быстрого поиска пиров в кампусе Школы 21: https://github.com/drveles-X-zkhrg/campus_map_bot
+- GitHub: Пример, калькулятор на C++ https://github.com/drveles/calculator_2
+
+Алгоритмы:
+
+- Сайт: **Книга Адиться Бхаргава - Грокаем алгоритмы** https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/
+- Сайт: **Тренировки по алгоритмам Яндекса**: https://yandex.ru/yaintern/algorithm-training
+- Сайт: **Литкод, список Яндекса** https://leetcode.com/problem-list/2cck1b1j/
+- Чат: Литкод комьюнити https://t.me/l33tcode
+- Сайт: CodeRun https://coderun.yandex.ru/promo
+
+## Упакуй свой опыт
+
+Портфолио и гитхаб:
+
+- GitHub: Мой профиль для примера https://github.com/drveles
+- GitHub: Пример оформлениия профиля: Mikhail Karpushov aka perlabru https://github.com/Hasuk1
+- GitHub: Пример оформления профиля: Raymond Li https://github.com/Raymo111
+- GitHub: Пример оформления профиля: Aknur Kassym https://github.com/akoQassym
+- Статья: Практикум: Как сделать портфолио https://practicum.yandex.ru/blog/kak-sozdat-portfolio-dlya-raboty/
+
+Резюме:
+
+- Скрин: Резюме с которым прошел на стажировку в Яндекс [](./misc/pics/2024.11%20Frolov%20Vasilii%20-%20Python%20Developer.png)
+- Чат: **Крупнейший чат посвященный резюме**: https://t.me/resume_review
+- Видео: Вывести резюме в Топ 1 на HeadHunter https://www.youtube.com/watch?v=E4Nd-_A4me4
+- Видео: Как написать резюме, чтобы вас не игнорили https://www.youtube.com/watch?v=RUp2HwofyhI
+- Сайт: Конструктор LaTeX резюме, шаблон Джейка (Jake's template) https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
+
+## Продай свой опыт
+
+Где откликаться?:
 
 - Агрегаторы:<a id="agregators"></a>
-  - Сайт: Топ 1 агрегатор вакансий в России [HeadHunter, hh.ru](https://hh.ru)
-  - Сайт: Агреатор стажировок Futute Today, fut.ru https://fut.ru/
-  - Сайт: Агреатор IT стажировок Futute Today, it.fut.ru https://it.fut.ru/
-  - Сайт: Карьерная платформа Changellenge https://changellenge.com/
+  - Сайт: **Топ 1 агрегатор вакансий в России** [HeadHunter, hh.ru](https://hh.ru)
+  - Сайт: **Агреатор стажировок Futute Today**, fut.ru https://fut.ru/
+  - Сайт: **Агреатор IT стажировок Futute Today**, it.fut.ru https://it.fut.ru/
+  - Сайт: **Карьерная платформа Changellenge** https://changellenge.com/
   - Сайт: Небольшой агрегатор хабр карьера https://career.habr.com/
   - Сайт: Топ 1 Агрегатор зарубежных вакансий + соц сеть http://linkedin.com/
   - Сайт: https://www.glassdoor.com/Job/index.html 
   - Сайт: Агрегатор вакансий зарубежом с релокейтом https://relocate.me/
 - Карьерные сайты Российских компаний:<a id="career-sites"></a>
-  - Сайт: стажки Яндекс  https://yandex.ru/yaintern/
+  - Сайт: **стажки Яндекс** https://yandex.ru/yaintern/
   - Сайт: работа в яндекс https://yandex.ru/jobs
   - Сайт: стажка Т-Банк https://education.tbank.ru/start/
   - Сайт: стажки Авито https://start.avito.ru/
@@ -62,55 +138,12 @@
   - Сайт: Apple internsips https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN
   - Сайт: amazon internships https://amazon.jobs/en/search?base_query=intern&loc_query=
   - Сайт: microsoft internships https://jobs.careers.microsoft.com/global/en/search?q=intern
-  - Сайт: ТикТок стажирвоки https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=&location_code_list=&keyword=&limit=12&offset=0
-- [Каналы, чаты, реферы](#channels-and-refers)
-
-## Подбери свой трек обучения
-
-- Сайт: Школа 21 https://21-school.ru/
-
-Книги:
-
-- Канал: Книги для программистов: https://t.me/progbook
-- Канал: Программирование | книги: https://t.me/it_boooks
-- Канал: Архив книг канала Программирование | книги: https://t.me/+n3Ph3mPZBaxjZjEy
-- Сайт: Яндекс.Книги (ex. Букмейт) https://books.yandex.ru/
-
-Дополнительное образование:
-
-- Канал: IT – Бесплатное обучение для студентов https://t.me/competech
-- Сайт: Летние школы Яндекса: https://yandex.ru/yaintern/schools/summer
-- Канал: Яндекс Образование https://t.me/Education_Yandex
-- Сайт: Т-Курсы https://education.tbank.ru/study/fintech/
-- Канал: T-Образование https://t.me/tbank_education
-- Сайт: WB Техношкола https://tech.wildberries.ru/
-- Сайт: OZON Route https://route256.ozon.ru/
-- Сайт: Академия аналитиков Авито https://www.avito-analytics-academy.ru/
-- Сайт: Школа анализа данных Яндекса https://shad.yandex.ru/
-- Сайт: Школа анализа данных МТС https://www.teta.mts.ru/analytics-school
-- Канал: VK Education https://t.me/vkeducation_about
-- Сайт: Академия Касперского https://academy.kaspersky.ru/
-- Сайт: Альфа Будущее https://alfabank.ru/alfafuture/
-
-Алгоритмы:
-
-- Сайт: Книга Адиться Бхаргава - Грокаем алгоритмы https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/
-- Сайт: Литкод, список Яндекса https://leetcode.com/problem-list/2cck1b1j/
-- Чат: Литкод комьюнити https://t.me/l33tcode
-
-## Упакуй свой опыт
-
-- Чат: Крупнейший чат посвященный резюме: https://t.me/resume_review
-
-## Продай свой опыт
-
-Ещё вакансии:
-- [Агрегаторы](#agregators)
-- [Карьерные сайты](#career-sites)
+  - Сайт: ТикТок стажировки https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=&location_code_list=&keyword=&limit=12&offset=0
 - Каналы, чаты и реферы:<a id="channels-and-refers"></a>
-  - Чат: Крупнейший чат про стажировки: https://t.me/sns_internships
+  - Чат: **Крупнейший чат про стажировки**: https://t.me/sns_internships
   - Канал: future today https://t.me/futru_it
   - Канал: янг and yandex https://t.me/Young_and_Yandex
+  - Канал: in it с анонсами всего на свете https://t.me/initmir
   - Канал: Яндекс нанимает Разработчиков https://t.me/ya_jobs
   - Канал: Яндекс нанимает ПМ https://t.me/ya_jobs_pm
   - Канал: Т-Crew https://t.me/t_crew
@@ -137,6 +170,6 @@
 
 ## Двигайся дальше
 
-- Мартин роберт - Идеальный программист
+- Мартин роберт - Идеальный программист https://books.yandex.ru/books/zciJJl9C
 
 ## Вместо эпилога
