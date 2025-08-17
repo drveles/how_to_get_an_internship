@@ -93,6 +93,7 @@
 - GitHub: Пример оформлениия профиля: Mikhail Karpushov aka perlabru https://github.com/Hasuk1
 - GitHub: Пример оформления профиля: Raymond Li https://github.com/Raymo111
 - GitHub: Пример оформления профиля: Aknur Kassym https://github.com/akoQassym
+- GitHub: Программа для изменения истории коммитов гит https://github.com/bokub/git-history-editor 
 - Статья: Практикум: Как сделать портфолио https://practicum.yandex.ru/blog/kak-sozdat-portfolio-dlya-raboty/
 
 Резюме:
@@ -170,6 +171,7 @@
 
 ## Двигайся дальше
 
-- Мартин роберт - Идеальный программист https://books.yandex.ru/books/zciJJl9C
+- Книга: Мартин роберт - Идеальный программист https://books.yandex.ru/books/zciJJl9C
+- Статья: Кто такой T-shaped специалист https://www.unisender.com/ru/glossary/chto-takoe-t-shaped-podhod/
 
 ## Вместо эпилога
