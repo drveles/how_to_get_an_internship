@@ -16,10 +16,11 @@
 
 ## Вступление (Кто я?)
 
-- Фролов Василий aka jenniffr:
-  - Личка: [Личный аккаунт в Телеграм](https://t.me/drveles)
-  - Канал: [**Технический канал Код Василий** в Телеграм](https://t.me/code_vasilii)
-  - Канал: [Личный блог Кот Василий в Телеграм](https://t.me/drveless)
+Фролов Василий aka jenniffr
+
+- Личка: [Личный аккаунт в телеграм](https://t.me/drveles)
+- Канал: [**Технический канал Код Василий** в телеграм](https://t.me/code_vasilii)
+- Канал: [Личный блог Кот Василий в телеграм](https://t.me/drveless)
 - Статья: [Год, месяц и день в Школе 21](https://telegra.ph/God-mesyac-i-den-v-SHkole-21-11-24)
 - Пост: [Пир года Career Buddy Of The Year 2024: пост в канале](https://t.me/code_vasilii/13)
 
@@ -72,7 +73,7 @@
 - Статья: [18 идей пет-проектов для digital-специалистов](https://www.unisender.com/ru/blog/idei-pet-proektov-dlya-digital-specialistov/)
 - Статья: [Пет-проект: как его создать и где взять идеи от Практикум](https://practicum.yandex.ru/blog/chto-takoe-pet-proekty-idei-dlya-novichkov/)
 - Видео: [Shorts Артема Шумейко – Где взять идею для пет-проекта](https://youtube.com/shorts/MPGZxbHaw5w)
-- GitHub: [Пример нашего с Захаром пет-проекта: Телеграм бот для быстрого поиска пиров в кампусе Школы 21](https://github.com/drveles-X-zkhrg/campus_map_bot)
+- GitHub: [Пример нашего с Захаром пет-проекта: телеграм бот для быстрого поиска пиров в кампусе Школы 21](https://github.com/drveles-X-zkhrg/campus_map_bot)
 - GitHub: [Пример калькулятора на C++](https://github.com/drveles/calculator_2)
 
 Алгоритмы:
@@ -107,64 +108,73 @@
 
 ### Где откликаться?
 
-- Агрегаторы:<a id="agregators"></a>
-  - Сайт: [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
-  - Сайт: [**Агрегатор стажировок Future Today**](https://fut.ru/)
-  - Сайт: [**Агрегатор IT стажировок Future Today**](https://it.fut.ru/)
-  - Сайт: [**Карьерная платформа Changellenge**](https://changellenge.com/)
-  - Сайт: [Небольшой агрегатор Хабр Карьера](https://career.habr.com/)
-  - Сайт: [Топ 1 Агрегатор зарубежных вакансий + соц сеть LinkedIn](http://linkedin.com/)
-  - Сайт: [Glassdoor](https://www.glassdoor.com/Job/index.html)
-  - Сайт: [Агрегатор вакансий зарубежом с релокейтом](https://relocate.me/)
-- Карьерные сайты российских компаний:<a id="career-sites"></a>
-  - Сайт: [**Стажировки Яндекс**](https://yandex.ru/yaintern/)
-  - Сайт: [Работа в Яндекс](https://yandex.ru/jobs)
-  - Сайт: [Стажировка Т-Банк](https://education.tbank.ru/start/)
-  - Сайт: [Стажировки Авито](https://start.avito.ru/)
-  - Сайт: [Стажировки OZON](https://ozon.tech/internship/)
-  - Сайт: [Стажировки Альфа-Банк](https://alfabank.ru/alfafuture/ichoosealfa/)
-  - Сайт: [Стажировки VK](https://internship.vk.company/internship)
-  - Сайт: [Стажировка Касперский](https://safeboard.kaspersky.ru/)
-  - Сайт: [Стажировка Ядро](https://careers.yadro.com/internship/)
-  - Сайт: [Стажировка Positive Technologies](https://pt-start.ptsecurity.com/)
-  - Сайт: [Стажировка MTS](https://job.mts.ru/programs)
-  - Сайт: [Стажировки в Совкомбанк](https://people.sovcombank.ru/students)
-  - Сайт: [Работа Сбер](https://rabota.sber.ru/search/)
-  - Сайт: [Работа в Золотое Яблоко](https://job.goldapple.ru/)
-  - Сайт: [Работа в Lamoda](https://job.lamoda.ru/vacancies?city=none)
-  - Сайт: [Работа Aviasales](https://www.aviasales.ru/about/vacancies)
-- Карьерные сайты зарубежных компаний:
-  - Сайт: [Google Students](https://www.google.com/about/careers/applications/students/)
-  - Сайт: [Apple Internships](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)
-  - Сайт: [Amazon Internships](https://amazon.jobs/en/search?base_query=intern&loc_query=)
-  - Сайт: [Microsoft Internships](https://jobs.careers.microsoft.com/global/en/search?q=intern)
-  - Сайт: [TikTok стажировки](https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=&location_code_list=&keyword=&limit=12&offset=0)
-- Каналы, чаты и реферы:<a id="channels-and-refers"></a>
-  - Чат: [**Крупнейший чат про стажировки**](https://t.me/sns_internships)
-  - Канал: [Future Today](https://t.me/futru_it)
-  - Канал: [Young and Yandex](https://t.me/Young_and_Yandex)
-  - Канал: [In IT с анонсами всего на свете](https://t.me/initmir)
-  - Канал: [Яндекс нанимает Разработчиков](https://t.me/ya_jobs)
-  - Канал: [Яндекс нанимает PM](https://t.me/ya_jobs_pm)
-  - Канал: [Т-Crew](https://t.me/t_crew)
-  - Канал: [OZON Tech](https://t.me/ozon_tech)
-  - Канал: [Авито Tech](https://t.me/avitotech)
-  - Канал: [Альфа Будущее](https://t.me/alfafuture)
-  - Канал: [Это MTS](https://t.me/it_is_mts/1390)
-  - Канал: [Ecom-tech (Самокат)](https://t.me/ecom_tech_channel)
-  - Канал: [Lamoda Tech](https://t.me/latech)
-  - Канал: [Jobs for Junior](https://t.me/jobforjunior)
-  - Канал: [Джуниор вакансии и стажировки в IT & Digital](https://t.me/juniors_rabota_jobs)
-  - Чат: [Про работу в России](https://t.me/sns_jobs)
-  - Чат: [Стажировки зарубежом](https://t.me/mipt_internships)
-  - Канал: [Стадика — стажировки, стипендии, образование зарубежом](https://t.me/studyqa)
-  - Чат: [Про работу зарубежом](https://t.me/maang_talks)
-  - Канал: [Работа зарубежом в русскоговорящих компаниях](https://t.me/dev_connectablejobs)
-  - Google Sheet: [Таблица реферов в MAANG (ex. FAANG)](https://bit.ly/faang_referrals)
-- Нетворкинг:
-  - Канал: [IT Meeting](https://t.me/ITMeeting)
-  - Канал: [IT мероприятия Россия](https://t.me/iteventsrus)
-  - Канал: [ALL events](https://t.me/allbusinessevents) и их бот @All_events_mailing_bot
+Агрегаторы:<a id="agregators"></a>
+
+- Сайт: [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
+- Сайт: [**Агрегатор стажировок Future Today**](https://fut.ru/)
+- Сайт: [**Агрегатор IT стажировок Future Today**](https://it.fut.ru/)
+- Сайт: [**Карьерная платформа Changellenge**](https://changellenge.com/)
+- Сайт: [Небольшой агрегатор Хабр Карьера](https://career.habr.com/)
+- Сайт: [Топ 1 Агрегатор зарубежных вакансий + соц сеть LinkedIn](http://linkedin.com/)
+- Сайт: [Glassdoor](https://www.glassdoor.com/Job/index.html)
+- Сайт: [Агрегатор вакансий зарубежом с релокейтом](https://relocate.me/)
+
+Карьерные сайты российских компаний:<a id="career-sites"></a>
+
+- Сайт: [**Стажировки Яндекс**](https://yandex.ru/yaintern/)
+- Сайт: [Работа в Яндекс](https://yandex.ru/jobs)
+- Сайт: [Стажировка Т-Банк](https://education.tbank.ru/start/)
+- Сайт: [Стажировки Авито](https://start.avito.ru/)
+- Сайт: [Стажировки OZON](https://ozon.tech/internship/)
+- Сайт: [Стажировки Альфа-Банк](https://alfabank.ru/alfafuture/ichoosealfa/)
+- Сайт: [Стажировки VK](https://internship.vk.company/internship)
+- Сайт: [Стажировка Касперский](https://safeboard.kaspersky.ru/)
+- Сайт: [Стажировка Ядро](https://careers.yadro.com/internship/)
+- Сайт: [Стажировка Positive Technologies](https://pt-start.ptsecurity.com/)
+- Сайт: [Стажировка MTS](https://job.mts.ru/programs)
+- Сайт: [Стажировки в Совкомбанк](https://people.sovcombank.ru/students)
+- Сайт: [Работа Сбер](https://rabota.sber.ru/search/)
+- Сайт: [Работа в Золотое Яблоко](https://job.goldapple.ru/)
+- Сайт: [Работа в Lamoda](https://job.lamoda.ru/vacancies?city=none)
+- Сайт: [Работа Aviasales](https://www.aviasales.ru/about/vacancies)
+
+Карьерные сайты зарубежных компаний:
+
+- Сайт: [Google Students](https://www.google.com/about/careers/applications/students/)
+- Сайт: [Apple Internships](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)
+- Сайт: [Amazon Internships](https://amazon.jobs/en/search?base_query=intern&loc_query=)
+- Сайт: [Microsoft Internships](https://jobs.careers.microsoft.com/global/en/search?q=intern)
+- Сайт: [TikTok стажировки](https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=&location_code_list=&keyword=&limit=12&offset=0)
+
+Каналы, чаты и реферы:<a id="channels-and-refers"></a>
+
+- Чат: [**Крупнейший чат про стажировки**](https://t.me/sns_internships)
+- Канал: [Future Today](https://t.me/futru_it)
+- Канал: [Young and Yandex](https://t.me/Young_and_Yandex)
+- Канал: [In IT с анонсами всего на свете](https://t.me/initmir)
+- Канал: [Яндекс нанимает Разработчиков](https://t.me/ya_jobs)
+- Канал: [Яндекс нанимает PM](https://t.me/ya_jobs_pm)
+- Канал: [Т-Crew](https://t.me/t_crew)
+- Канал: [OZON Tech](https://t.me/ozon_tech)
+- Канал: [Авито Tech](https://t.me/avitotech)
+- Канал: [Альфа Будущее](https://t.me/alfafuture)
+- Канал: [Это MTS](https://t.me/it_is_mts/1390)
+- Канал: [Ecom-tech (Самокат)](https://t.me/ecom_tech_channel)
+- Канал: [Lamoda Tech](https://t.me/latech)
+- Канал: [Jobs for Junior](https://t.me/jobforjunior)
+- Канал: [Джуниор вакансии и стажировки в IT & Digital](https://t.me/juniors_rabota_jobs)
+- Чат: [Про работу в России](https://t.me/sns_jobs)
+- Чат: [Стажировки зарубежом](https://t.me/mipt_internships)
+- Канал: [Стадика — стажировки, стипендии, образование зарубежом](https://t.me/studyqa)
+- Чат: [Про работу зарубежом](https://t.me/maang_talks)
+- Канал: [Работа зарубежом в русскоговорящих компаниях](https://t.me/dev_connectablejobs)
+- Google Sheet: [Таблица реферов в MAANG (ex. FAANG)](https://bit.ly/faang_referrals)
+
+Нетворкинг:
+
+- Канал: [IT Meeting](https://t.me/ITMeeting)
+- Канал: [IT мероприятия Россия](https://t.me/iteventsrus)
+- Канал: [ALL events](https://t.me/allbusinessevents) и их бот @All_events_mailing_bot
 
 ### Подготовка к контестам
 
