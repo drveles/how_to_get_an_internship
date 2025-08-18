@@ -67,13 +67,13 @@
 - Сайт: [Академия Касперского](https://academy.kaspersky.ru/)
 - Сайт: [Альфа Будущее](https://alfabank.ru/alfafuture/)
 
-Пет–проекты:
+Пет-проекты:
 
-- Статья: 18 идей pet-проектов для digital-специалистов https://www.unisender.com/ru/blog/idei-pet-proektov-dlya-digital-specialistov/
-- Статья: Pet-проект: как его создать и где взять идеи, Практикум https://practicum.yandex.ru/blog/chto-takoe-pet-proekty-idei-dlya-novichkov/
-- Видео: Shorts Артема Шумейко –– Где взять идею для пет проекта https://youtube.com/shorts/MPGZxbHaw5w
-- GitHub: Пример нашего с Захаром пет-проекта: Телеграм бот для быстрого поиска пиров в кампусе Школы 21: https://github.com/drveles-X-zkhrg/campus_map_bot
-- GitHub: Пример, калькулятор на C++ https://github.com/drveles/calculator_2
+- Статья: [18 идей пет-проектов для digital-специалистов](https://www.unisender.com/ru/blog/idei-pet-proektov-dlya-digital-specialistov/)
+- Статья: [Пет-проект: как его создать и где взять идеи от Практикум](https://practicum.yandex.ru/blog/chto-takoe-pet-proekty-idei-dlya-novichkov/)
+- Видео: [Shorts Артема Шумейко – Где взять идею для пет-проекта](https://youtube.com/shorts/MPGZxbHaw5w)
+- GitHub: [Пример нашего с Захаром пет-проекта: Телеграм бот для быстрого поиска пиров в кампусе Школы 21](https://github.com/drveles-X-zkhrg/campus_map_bot)
+- GitHub: [Пример калькулятора на C++](https://github.com/drveles/calculator_2)
 
 Алгоритмы:
 
@@ -171,7 +171,7 @@
 - Канал: [Поступашки](https://t.me/postupashki)
 - Чат: [Поступашки](https://t.me/postypashki_old_chat)
 - Чат: [Боталка](https://t.me/botalkaaa)
-- Чат: Yandex Legion, DS/ML поступашки в Яндекс
+- Чат: [Yandex Legion, DS/ML поступашки в Яндекс](https://t.me/+xn8lwiId9kdmYjAy)
 
 ### Подготовка к собеседованиям
 
