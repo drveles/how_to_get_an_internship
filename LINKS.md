@@ -19,7 +19,7 @@
 Фролов Василий aka jenniffr
 
 - Личка: [Личный аккаунт в телеграм](https://t.me/drveles)
-- Канал: [**Технический канал Код Василий** в телеграм](https://t.me/code_vasilii)
+- **Канал:** [**Технический канал Код Василий** в телеграм](https://t.me/code_vasilii)
 - Канал: [Личный блог Кот Василий в телеграм](https://t.me/drveless)
 - Статья: [Год, месяц и день в Школе 21](https://telegra.ph/God-mesyac-i-den-v-SHkole-21-11-24)
 - Пост: [Пир года Career Buddy Of The Year 2024: пост в канале](https://t.me/code_vasilii/13)
@@ -31,30 +31,30 @@
 
 Где ознакомиться с требованиями:
 
-- Сайт: [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
-- Сайт: [**Круглогодичные стажировки Яндекса**](https://yandex.ru/yaintern/)
-- Сайт: [**Агрегатор стажировок Future Today**](https://fut.ru/)
+- **Сайт:** [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
+- **Сайт:** [**Круглогодичные стажировки Яндекса**](https://yandex.ru/yaintern/)
+- **Сайт:** [**Агрегатор стажировок Future Today**](https://fut.ru/)
 - Сайт: [Агрегатор IT стажировок Future Today](https://it.fut.ru/)
 - Сайт: [Карьерная платформа Changellenge](https://changellenge.com/)
 
 ## Подбери свой трек обучения
 
 - Сайт: [Школа 21](https://21-school.ru/)
-- Сайт: [**Полезные материалы для подготовки** от Яндекса](https://yandex.ru/yaintern/schools/useful)
+- **Сайт:** [**Полезные материалы для подготовки** от Яндекса](https://yandex.ru/yaintern/schools/useful)
 
 Книги:
 
 - Канал: [Книги для программистов](https://t.me/progbook)
-- Канал: [**Программирование | книги**](https://t.me/it_boooks)
+- **Канал:** [**Программирование | книги**](https://t.me/it_boooks)
 - Канал: [Архив книг канала Программирование | книги](https://t.me/+n3Ph3mPZBaxjZjEy)
 - Сайт: [Яндекс.Книги (ex. Букмейт)](https://books.yandex.ru/)
 
 Дополнительное образование:
 
-- Канал: [**IT – Бесплатное обучение для студентов**](https://t.me/competech)
+- **Канал:** [**IT – Бесплатное обучение для студентов**](https://t.me/competech)
 - Сайт: [Курсы на Stepik](https://stepik.org/catalog)
-- Сайт: [**Летние школы Яндекса**](https://yandex.ru/yaintern/schools/summer)
-- Сайт: [**Открытый лекторий Яндекса**](https://yandex.ru/yaintern/schools/open-lectures)
+- **Сайт:** [**Летние школы Яндекса**](https://yandex.ru/yaintern/schools/summer)
+- **Сайт:** [**Открытый лекторий Яндекса**](https://yandex.ru/yaintern/schools/open-lectures)
 - Видео: [Young && Yandex (записи лекций и летних школ)](https://www.youtube.com/@Young_and_Yandex/playlists)
 - Канал: [Яндекс Образование](https://t.me/Education_Yandex)
 - Сайт: [Т-Курсы](https://education.tbank.ru/study/fintech/)
@@ -78,9 +78,9 @@
 
 Алгоритмы:
 
-- Сайт: [**Книга Адитья Бхаргава - Грокаем алгоритмы**](https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/)
-- Сайт: [**Тренировки по алгоритмам Яндекса**](https://yandex.ru/yaintern/algorithm-training)
-- Сайт: [**LeetCode, список Яндекса**](https://leetcode.com/problem-list/2cck1b1j/)
+- **Сайт:** [**Книга Адитья Бхаргава - Грокаем алгоритмы**](https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/)
+- **Сайт:** [**Тренировки по алгоритмам Яндекса**](https://yandex.ru/yaintern/algorithm-training)
+- **Сайт:** [**LeetCode, список Яндекса**](https://leetcode.com/problem-list/2cck1b1j/)
 - Чат: [LeetCode сообщество](https://t.me/l33tcode)
 - Сайт: [CodeRun](https://coderun.yandex.ru/promo)
 
@@ -99,7 +99,7 @@
 Резюме:
 
 - Скрин: [Резюме с которым прошел на стажировку в Яндекс](./misc/pics/2024.11%20Frolov%20Vasilii%20-%20Python%20Developer.png)
-- Чат: [**Крупнейший чат посвященный резюме**](https://t.me/resume_review)
+- **Чат:** [**Крупнейший чат посвященный резюме**](https://t.me/resume_review)
 - Видео: [Вывести резюме в Топ 1 на HeadHunter](https://www.youtube.com/watch?v=E4Nd-_A4me4)
 - Видео: [Как написать резюме, чтобы вас не игнорили](https://www.youtube.com/watch?v=RUp2HwofyhI)
 - Сайт: [Конструктор LaTeX резюме, шаблон Джейка (Jake's template)](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
@@ -110,10 +110,10 @@
 
 Агрегаторы:<a id="agregators"></a>
 
-- Сайт: [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
-- Сайт: [**Агрегатор стажировок Future Today**](https://fut.ru/)
-- Сайт: [**Агрегатор IT стажировок Future Today**](https://it.fut.ru/)
-- Сайт: [**Карьерная платформа Changellenge**](https://changellenge.com/)
+- **Сайт:** [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
+- **Сайт:** [**Агрегатор стажировок Future Today**](https://fut.ru/)
+- **Сайт:** [**Агрегатор IT стажировок Future Today**](https://it.fut.ru/)
+- **Сайт:** [**Карьерная платформа Changellenge**](https://changellenge.com/)
 - Сайт: [Небольшой агрегатор Хабр Карьера](https://career.habr.com/)
 - Сайт: [Топ 1 Агрегатор зарубежных вакансий + соц сеть LinkedIn](http://linkedin.com/)
 - Сайт: [Glassdoor](https://www.glassdoor.com/Job/index.html)
@@ -121,7 +121,7 @@
 
 Карьерные сайты российских компаний:<a id="career-sites"></a>
 
-- Сайт: [**Стажировки Яндекс**](https://yandex.ru/yaintern/)
+- **Сайт:** [**Стажировки Яндекс**](https://yandex.ru/yaintern/)
 - Сайт: [Работа в Яндекс](https://yandex.ru/jobs)
 - Сайт: [Стажировка Т-Банк](https://education.tbank.ru/start/)
 - Сайт: [Стажировки Авито](https://start.avito.ru/)
@@ -148,9 +148,9 @@
 
 Каналы, чаты и реферы:<a id="channels-and-refers"></a>
 
-- Чат: [**Крупнейший чат про стажировки**](https://t.me/sns_internships)
-- Канал: [Future Today](https://t.me/futru_it)
-- Канал: [Young and Yandex](https://t.me/Young_and_Yandex)
+- **Чат:** [**Крупнейший чат про стажировки**](https://t.me/sns_internships)
+- **Канал:** [**Future Today**](https://t.me/futru_it)
+- **Канал:** [**Young and Yandex**](https://t.me/Young_and_Yandex)
 - Канал: [In IT с анонсами всего на свете](https://t.me/initmir)
 - Канал: [Яндекс нанимает Разработчиков](https://t.me/ya_jobs)
 - Канал: [Яндекс нанимает PM](https://t.me/ya_jobs_pm)
@@ -174,12 +174,12 @@
 
 - Канал: [IT Meeting](https://t.me/ITMeeting)
 - Канал: [IT мероприятия Россия](https://t.me/iteventsrus)
-- Канал: [ALL events](https://t.me/allbusinessevents) и их бот @All_events_mailing_bot
+- Канал: [ALL events](https://t.me/allbusinessevents) и [их бот](https://t.me/All_events_mailing_bot)
 
 ### Подготовка к контестам
 
 - Канал: [Поступашки](https://t.me/postupashki)
-- Чат: [Поступашки](https://t.me/postypashki_old_chat)
+- **Чат:** [**Поступашки**](https://t.me/postypashki_old_chat)
 - Чат: [Боталка](https://t.me/botalkaaa)
 - Чат: [Yandex Legion, DS/ML поступашки в Яндекс](https://t.me/+xn8lwiId9kdmYjAy)
 
@@ -200,10 +200,10 @@
 
 ## Двигайся дальше
 
+- **Статья:** [**Кто такой T-shaped специалист**](https://www.unisender.com/ru/glossary/chto-takoe-t-shaped-podhod/)
 - Книга: [Роберт Мартин - Идеальный программист](https://books.yandex.ru/books/zciJJl9C)
-- Статья: [Кто такой T-shaped специалист](https://www.unisender.com/ru/glossary/chto-takoe-t-shaped-podhod/)
 - Статья: [Как стать руководителем в Яндексе](https://education.yandex.ru/journal/kak-stat-rukovoditelem-v-yandekse)
 
 ## Вместо эпилога
 
-[**Оставь отзыв о выступлении**](https://docs.google.com/forms/d/e/1FAIpQLSdvb0FqgMdnEMqAL3xB9Kt0H7C1lY-ob0S1QfgO3C_YJEKxfw/viewform)
+**Форма:** [**Оставь отзыв о выступлении**](https://docs.google.com/forms/d/e/1FAIpQLSdvb0FqgMdnEMqAL3xB9Kt0H7C1lY-ob0S1QfgO3C_YJEKxfw/viewform)
