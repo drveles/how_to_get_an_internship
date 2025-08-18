@@ -17,55 +17,55 @@
 ## Вступление (Кто я?)
 
 - Фролов Василий aka jenniffr:
-  - [Личный аккаунт в телеграм](https://t.me/drveles),
-  - [**Технический канал Код Василий** в телеграм](https://t.me/code_vasilii),
-  - [Личный блог Кот Василий в телеграм](https://t.me/drveless),
+  - Личка: [Личный аккаунт в Телеграм](https://t.me/drveles)
+  - Канал: [**Технический канал Код Василий** в Телеграм](https://t.me/code_vasilii)
+  - Канал: [Личный блог Кот Василий в Телеграм](https://t.me/drveless)
 - Статья: [Год, месяц и день в Школе 21](https://telegra.ph/God-mesyac-i-den-v-SHkole-21-11-24)
-- Пост: [Пир года Carrer Buddy Of The Year 2024: пост в канале](https://t.me/code_vasilii/13)
+- Пост: [Пир года Career Buddy Of The Year 2024: пост в канале](https://t.me/code_vasilii/13)
 
 ## Найди себя и цель
 
-- Сайт: [Дорожные карты профессий, roadmap.sh](https://roadmap.sh/)
-- Сайт: Пример, дорожная карта тестировщика https://teletype.in/@how_to_code_web3/QA_Full_Roadmap
+- Сайт: [Дорожные карты профессий Roadmap.sh](https://roadmap.sh/)
+- Сайт: [Пример дорожной карты тестировщика](https://teletype.in/@how_to_code_web3/QA_Full_Roadmap)
 
 Где ознакомиться с требованиями:
 
-- Сайт: **Топ 1 агрегатор вакансий в России** [HeadHunter, hh.ru](https://hh.ru)
-- Сайт: **Круглогодичные стажировки Яндекса** https://yandex.ru/yaintern/
-- Сайт: **Агреатор стажировок Futute Today**, fut.ru https://fut.ru/
-- Сайт: Агреатор IT стажировок Futute Today, it.fut.ru https://it.fut.ru/
-- Сайт: Карьерная платформа Changellenge https://changellenge.com/
+- Сайт: [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
+- Сайт: [**Круглогодичные стажировки Яндекса**](https://yandex.ru/yaintern/)
+- Сайт: [**Агрегатор стажировок Future Today**](https://fut.ru/)
+- Сайт: [Агрегатор IT стажировок Future Today](https://it.fut.ru/)
+- Сайт: [Карьерная платформа Changellenge](https://changellenge.com/)
 
 ## Подбери свой трек обучения
 
-- Сайт: Школа 21 https://21-school.ru/
-- Сайт: **Полезные материалы для подговки**, Яндекс https://yandex.ru/yaintern/schools/useful
+- Сайт: [Школа 21](https://21-school.ru/)
+- Сайт: [**Полезные материалы для подготовки** от Яндекса](https://yandex.ru/yaintern/schools/useful)
 
 Книги:
 
-- Канал: Книги для программистов: https://t.me/progbook
-- Канал: **Программирование | книги**: https://t.me/it_boooks
-- Канал: Архив книг канала Программирование | книги: https://t.me/+n3Ph3mPZBaxjZjEy
-- Сайт: Яндекс.Книги (ex. Букмейт) https://books.yandex.ru/
+- Канал: [Книги для программистов](https://t.me/progbook)
+- Канал: [**Программирование | книги**](https://t.me/it_boooks)
+- Канал: [Архив книг канала Программирование | книги](https://t.me/+n3Ph3mPZBaxjZjEy)
+- Сайт: [Яндекс.Книги (ex. Букмейт)](https://books.yandex.ru/)
 
 Дополнительное образование:
 
-- Канал: **IT – Бесплатное обучение для студентов** https://t.me/competech
-- Сайт: Курсы на Stepik: https://stepik.org/catalog
-- Сайт: **Летние школы Яндекса**: https://yandex.ru/yaintern/schools/summer
-- Сайт: **Открытый лекторий Яндекса**: https://yandex.ru/yaintern/schools/open-lectures
-- Видео: Young && Yandex (записи лекций и летних школ) https://www.youtube.com/@Young_and_Yandex/playlists
-- Канал: Яндекс Образование https://t.me/Education_Yandex
-- Сайт: Т-Курсы https://education.tbank.ru/study/fintech/
-- Канал: T-Образование https://t.me/tbank_education
-- Сайт: WB Техношкола https://tech.wildberries.ru/
-- Сайт: OZON Route https://route256.ozon.ru/
-- Сайт: Академия аналитиков Авито https://www.avito-analytics-academy.ru/
-- Сайт: Школа анализа данных Яндекса https://shad.yandex.ru/
-- Сайт: Школа анализа данных МТС https://www.teta.mts.ru/analytics-school
-- Канал: VK Education https://t.me/vkeducation_about
-- Сайт: Академия Касперского https://academy.kaspersky.ru/
-- Сайт: Альфа Будущее https://alfabank.ru/alfafuture/
+- Канал: [**IT – Бесплатное обучение для студентов**](https://t.me/competech)
+- Сайт: [Курсы на Stepik](https://stepik.org/catalog)
+- Сайт: [**Летние школы Яндекса**](https://yandex.ru/yaintern/schools/summer)
+- Сайт: [**Открытый лекторий Яндекса**](https://yandex.ru/yaintern/schools/open-lectures)
+- Видео: [Young && Yandex (записи лекций и летних школ)](https://www.youtube.com/@Young_and_Yandex/playlists)
+- Канал: [Яндекс Образование](https://t.me/Education_Yandex)
+- Сайт: [Т-Курсы](https://education.tbank.ru/study/fintech/)
+- Канал: [T-Образование](https://t.me/tbank_education)
+- Сайт: [WB Техношкола](https://tech.wildberries.ru/)
+- Сайт: [OZON Route](https://route256.ozon.ru/)
+- Сайт: [Академия аналитиков Авито](https://www.avito-analytics-academy.ru/)
+- Сайт: [Школа анализа данных Яндекса](https://shad.yandex.ru/)
+- Сайт: [Школа анализа данных МТС](https://www.teta.mts.ru/analytics-school)
+- Канал: [VK Education](https://t.me/vkeducation_about)
+- Сайт: [Академия Касперского](https://academy.kaspersky.ru/)
+- Сайт: [Альфа Будущее](https://alfabank.ru/alfafuture/)
 
 Пет–проекты:
 
@@ -77,123 +77,123 @@
 
 Алгоритмы:
 
-- Сайт: **Книга Адиться Бхаргава - Грокаем алгоритмы** https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/
-- Сайт: **Тренировки по алгоритмам Яндекса**: https://yandex.ru/yaintern/algorithm-training
-- Сайт: **Литкод, список Яндекса** https://leetcode.com/problem-list/2cck1b1j/
-- Чат: Литкод комьюнити https://t.me/l33tcode
-- Сайт: CodeRun https://coderun.yandex.ru/promo
+- Сайт: [**Книга Адитья Бхаргава - Грокаем алгоритмы**](https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-71518519/)
+- Сайт: [**Тренировки по алгоритмам Яндекса**](https://yandex.ru/yaintern/algorithm-training)
+- Сайт: [**LeetCode, список Яндекса**](https://leetcode.com/problem-list/2cck1b1j/)
+- Чат: [LeetCode сообщество](https://t.me/l33tcode)
+- Сайт: [CodeRun](https://coderun.yandex.ru/promo)
 
 ## Упакуй свой опыт
 
 Портфолио и гитхаб:
 
-- Статья: Оформляем профиль на гитхаб https://habr.com/ru/articles/649363/
-- GitHub: Мой профиль для примера https://github.com/drveles
-- GitHub: Пример оформлениия профиля: Mikhail Karpushov aka perlabru https://github.com/Hasuk1
-- GitHub: Пример оформления профиля: Raymond Li https://github.com/Raymo111
-- GitHub: Пример оформления профиля: Aknur Kassym https://github.com/akoQassym
-- GitHub: Программа для изменения истории коммитов гит https://github.com/bokub/git-history-editor 
-- Статья: Практикум: Как сделать портфолио https://practicum.yandex.ru/blog/kak-sozdat-portfolio-dlya-raboty/
+- Статья: [Оформляем профиль на GitHub](https://habr.com/ru/articles/649363/)
+- GitHub: [Мой профиль для примера](https://github.com/drveles)
+- GitHub: [Пример оформления профиля: Mikhail Karpushov aka perlabru](https://github.com/Hasuk1)
+- GitHub: [Пример оформления профиля: Raymond Li](https://github.com/Raymo111)
+- GitHub: [Пример оформления профиля: Aknur Kassym](https://github.com/akoQassym)
+- GitHub: [Программа для изменения истории коммитов Git](https://github.com/bokub/git-history-editor)
+- Статья: [Практикум: Как сделать портфолио](https://practicum.yandex.ru/blog/kak-sozdat-portfolio-dlya-raboty/)
 
 Резюме:
 
-- Скрин: Резюме с которым прошел на стажировку в Яндекс [](./misc/pics/2024.11%20Frolov%20Vasilii%20-%20Python%20Developer.png)
-- Чат: **Крупнейший чат посвященный резюме**: https://t.me/resume_review
-- Видео: Вывести резюме в Топ 1 на HeadHunter https://www.youtube.com/watch?v=E4Nd-_A4me4
-- Видео: Как написать резюме, чтобы вас не игнорили https://www.youtube.com/watch?v=RUp2HwofyhI
-- Сайт: Конструктор LaTeX резюме, шаблон Джейка (Jake's template) https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs
+- Скрин: [Резюме с которым прошел на стажировку в Яндекс](./misc/pics/2024.11%20Frolov%20Vasilii%20-%20Python%20Developer.png)
+- Чат: [**Крупнейший чат посвященный резюме**](https://t.me/resume_review)
+- Видео: [Вывести резюме в Топ 1 на HeadHunter](https://www.youtube.com/watch?v=E4Nd-_A4me4)
+- Видео: [Как написать резюме, чтобы вас не игнорили](https://www.youtube.com/watch?v=RUp2HwofyhI)
+- Сайт: [Конструктор LaTeX резюме, шаблон Джейка (Jake's template)](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
 
 ## Продай свой опыт
 
 ### Где откликаться?
 
 - Агрегаторы:<a id="agregators"></a>
-  - Сайт: **Топ 1 агрегатор вакансий в России** [HeadHunter, hh.ru](https://hh.ru)
-  - Сайт: **Агреатор стажировок Futute Today**, fut.ru https://fut.ru/
-  - Сайт: **Агреатор IT стажировок Futute Today**, it.fut.ru https://it.fut.ru/
-  - Сайт: **Карьерная платформа Changellenge** https://changellenge.com/
-  - Сайт: Небольшой агрегатор хабр карьера https://career.habr.com/
-  - Сайт: Топ 1 Агрегатор зарубежных вакансий + соц сеть http://linkedin.com/
-  - Сайт: https://www.glassdoor.com/Job/index.html 
-  - Сайт: Агрегатор вакансий зарубежом с релокейтом https://relocate.me/
-- Карьерные сайты Российских компаний:<a id="career-sites"></a>
-  - Сайт: **стажки Яндекс** https://yandex.ru/yaintern/
-  - Сайт: работа в яндекс https://yandex.ru/jobs
-  - Сайт: стажка Т-Банк https://education.tbank.ru/start/
-  - Сайт: стажки Авито https://start.avito.ru/
-  - Сайт: стажки ОЗОН https://ozon.tech/internship/
-  - Сайт: стажки альфабанк https://alfabank.ru/alfafuture/ichoosealfa/
-  - Сайт: стажки ВК https://internship.vk.company/internship
-  - Сайт: стажка Касперский https://safeboard.kaspersky.ru/
-  - Сайт: стажка Ядро https://careers.yadro.com/internship/
-  - Сайт: стажка Positive Technologies https://pt-start.ptsecurity.com/
-  - Сайт: стажка MTS  https://job.mts.ru/programs
-  - сайт: стажки в  совком банк https://people.sovcombank.ru/students
-  - Сайт: работа Сбер https://rabota.sber.ru/search/
-  - Сайт: работа в зя https://job.goldapple.ru/
-  - Сайт: работа в Ламода: https://job.lamoda.ru/vacancies?city=none
-  - Сайт: работа авиасейлс https://www.aviasales.ru/about/vacancies
+  - Сайт: [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
+  - Сайт: [**Агрегатор стажировок Future Today**](https://fut.ru/)
+  - Сайт: [**Агрегатор IT стажировок Future Today**](https://it.fut.ru/)
+  - Сайт: [**Карьерная платформа Changellenge**](https://changellenge.com/)
+  - Сайт: [Небольшой агрегатор Хабр Карьера](https://career.habr.com/)
+  - Сайт: [Топ 1 Агрегатор зарубежных вакансий + соц сеть LinkedIn](http://linkedin.com/)
+  - Сайт: [Glassdoor](https://www.glassdoor.com/Job/index.html)
+  - Сайт: [Агрегатор вакансий зарубежом с релокейтом](https://relocate.me/)
+- Карьерные сайты российских компаний:<a id="career-sites"></a>
+  - Сайт: [**Стажировки Яндекс**](https://yandex.ru/yaintern/)
+  - Сайт: [Работа в Яндекс](https://yandex.ru/jobs)
+  - Сайт: [Стажировка Т-Банк](https://education.tbank.ru/start/)
+  - Сайт: [Стажировки Авито](https://start.avito.ru/)
+  - Сайт: [Стажировки OZON](https://ozon.tech/internship/)
+  - Сайт: [Стажировки Альфа-Банк](https://alfabank.ru/alfafuture/ichoosealfa/)
+  - Сайт: [Стажировки VK](https://internship.vk.company/internship)
+  - Сайт: [Стажировка Касперский](https://safeboard.kaspersky.ru/)
+  - Сайт: [Стажировка Ядро](https://careers.yadro.com/internship/)
+  - Сайт: [Стажировка Positive Technologies](https://pt-start.ptsecurity.com/)
+  - Сайт: [Стажировка MTS](https://job.mts.ru/programs)
+  - Сайт: [Стажировки в Совкомбанк](https://people.sovcombank.ru/students)
+  - Сайт: [Работа Сбер](https://rabota.sber.ru/search/)
+  - Сайт: [Работа в Золотое Яблоко](https://job.goldapple.ru/)
+  - Сайт: [Работа в Lamoda](https://job.lamoda.ru/vacancies?city=none)
+  - Сайт: [Работа Aviasales](https://www.aviasales.ru/about/vacancies)
 - Карьерные сайты зарубежных компаний:
-  - Сайт: Google students https://www.google.com/about/careers/applications/students/
-  - Сайт: Apple internsips https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN
-  - Сайт: amazon internships https://amazon.jobs/en/search?base_query=intern&loc_query=
-  - Сайт: microsoft internships https://jobs.careers.microsoft.com/global/en/search?q=intern
-  - Сайт: ТикТок стажировки https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=&location_code_list=&keyword=&limit=12&offset=0
+  - Сайт: [Google Students](https://www.google.com/about/careers/applications/students/)
+  - Сайт: [Apple Internships](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN)
+  - Сайт: [Amazon Internships](https://amazon.jobs/en/search?base_query=intern&loc_query=)
+  - Сайт: [Microsoft Internships](https://jobs.careers.microsoft.com/global/en/search?q=intern)
+  - Сайт: [TikTok стажировки](https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=&location_code_list=&keyword=&limit=12&offset=0)
 - Каналы, чаты и реферы:<a id="channels-and-refers"></a>
-  - Чат: **Крупнейший чат про стажировки**: https://t.me/sns_internships
-  - Канал: future today https://t.me/futru_it
-  - Канал: янг and yandex https://t.me/Young_and_Yandex
-  - Канал: in it с анонсами всего на свете https://t.me/initmir
-  - Канал: Яндекс нанимает Разработчиков https://t.me/ya_jobs
-  - Канал: Яндекс нанимает ПМ https://t.me/ya_jobs_pm
-  - Канал: Т-Crew https://t.me/t_crew
-  - Канал: озон теч https://t.me/ozon_tech
-  - Канал: АВито теч https://t.me/avitotech
-  - Канал: альфа будущее https://t.me/alfafuture
-  - Канал: Это МТС https://t.me/it_is_mts/1390
-  - Канал: ecom-tech (Самокат) https://t.me/ecom_tech_channel
-  - Канал: Lamoda Tech https://t.me/latech
-  - Канал: jobs for junior https://t.me/jobforjunior
-  - Канал: Джуниор вакансии и стажировки в IT & Digital https://t.me/juniors_rabota_jobs
-  - Чат: Про работу в России https://t.me/sns_jobs
-  - Чат: Стажировки зарубежом https://t.me/mipt_internships
-  - Канал: Стадика — стажировки, стипендии, образование зарубежом https://t.me/studyqa
-  - Чат: про работу зарубежом https://t.me/maang_talks
-  - Канал: Работа зарубежом в рускоговорящих компаниях https://t.me/dev_connectablejobs
-  - Google Sheet: Таблица реферов в MAANG (ex. FAANG) bit.ly/faang_referrals
+  - Чат: [**Крупнейший чат про стажировки**](https://t.me/sns_internships)
+  - Канал: [Future Today](https://t.me/futru_it)
+  - Канал: [Young and Yandex](https://t.me/Young_and_Yandex)
+  - Канал: [In IT с анонсами всего на свете](https://t.me/initmir)
+  - Канал: [Яндекс нанимает Разработчиков](https://t.me/ya_jobs)
+  - Канал: [Яндекс нанимает PM](https://t.me/ya_jobs_pm)
+  - Канал: [Т-Crew](https://t.me/t_crew)
+  - Канал: [OZON Tech](https://t.me/ozon_tech)
+  - Канал: [Авито Tech](https://t.me/avitotech)
+  - Канал: [Альфа Будущее](https://t.me/alfafuture)
+  - Канал: [Это MTS](https://t.me/it_is_mts/1390)
+  - Канал: [Ecom-tech (Самокат)](https://t.me/ecom_tech_channel)
+  - Канал: [Lamoda Tech](https://t.me/latech)
+  - Канал: [Jobs for Junior](https://t.me/jobforjunior)
+  - Канал: [Джуниор вакансии и стажировки в IT & Digital](https://t.me/juniors_rabota_jobs)
+  - Чат: [Про работу в России](https://t.me/sns_jobs)
+  - Чат: [Стажировки зарубежом](https://t.me/mipt_internships)
+  - Канал: [Стадика — стажировки, стипендии, образование зарубежом](https://t.me/studyqa)
+  - Чат: [Про работу зарубежом](https://t.me/maang_talks)
+  - Канал: [Работа зарубежом в русскоговорящих компаниях](https://t.me/dev_connectablejobs)
+  - Google Sheet: [Таблица реферов в MAANG (ex. FAANG)](https://bit.ly/faang_referrals)
 - Нетворкинг:
-  - Канал: IT Meeting https://t.me/ITMeeting
-  - Канал: IT меропрятия Россия https://t.me/iteventsrus
-  - Канал: ALL events https://t.me/allbusinessevents и их бот @All_events_mailing_bot
+  - Канал: [IT Meeting](https://t.me/ITMeeting)
+  - Канал: [IT мероприятия Россия](https://t.me/iteventsrus)
+  - Канал: [ALL events](https://t.me/allbusinessevents) и их бот @All_events_mailing_bot
 
 ### Подготовка к контестам
 
-- Канал: Поступашки https://t.me/postupashki
-- Поступашки https://t.me/postypashki_old_chat
-- Чат: Боталка https://t.me/botalkaaa
+- Канал: [Поступашки](https://t.me/postupashki)
+- Чат: [Поступашки](https://t.me/postypashki_old_chat)
+- Чат: [Боталка](https://t.me/botalkaaa)
 - Чат: Yandex Legion, DS/ML поступашки в Яндекс
 
 ### Подготовка к собеседованиям
 
-- Сайт: тренажер собеседований, solvit: https://solvit.space/interviews
-- Сайт: Самые частотные вопросы с собеседований, easyoffer: https://easyoffer.ru/
-- GitHub: Пример, Вопрос-ответ для Python-разработчика на собеседовании. https://github.com/DEBAGanov/interview_questions/blob/main/400%20вопросов%20с%20ответами%2C%20которые%20должен%20знать%20Python-разработчик.md
-- Статья: Ошибки во время интервью https://tproger.ru/articles/kakie-oshibki-dopuskajut-nachinajushhie-ajtishniki-vo-vremja-intervju
-- Видео: 1. Тренировки по алгоритмам 5.0 Собеседование по алгоритмам в прямом эфире + его разбор С++ https://www.youtube.com/watch?v=dRHexm-A9yc
-- Видео: 2. Тренировки по алгоритмам 5.0 Собеседование по алгоритмам в прямом эфире + его разбор Python https://www.youtube.com/watch?v=P5q5jr8Vmgw
+- Сайт: [Тренажер собеседований Solvit](https://solvit.space/interviews)
+- Сайт: [Самые частотные вопросы с собеседований EasyOffer](https://easyoffer.ru/)
+- GitHub: [Пример вопрос-ответ для Python-разработчика на собеседовании](https://github.com/DEBAGanov/interview_questions/blob/main/400%20вопросов%20с%20ответами%2C%20которые%20должен%20знать%20Python-разработчик.md)
+- Статья: [Ошибки во время интервью](https://tproger.ru/articles/kakie-oshibki-dopuskajut-nachinajushhie-ajtishniki-vo-vremja-intervju)
+- Видео: [1. Тренировки по алгоритмам 5.0 Собеседование по алгоритмам в прямом эфире + его разбор C++](https://www.youtube.com/watch?v=dRHexm-A9yc)
+- Видео: [2. Тренировки по алгоритмам 5.0 Собеседование по алгоритмам в прямом эфире + его разбор Python](https://www.youtube.com/watch?v=P5q5jr8Vmgw)
 
 ## Выжми максимум из стажировки
 
-- Видео: Стажировка в Яндексе ➤ Полное прохождение https://vk.com/video-11283947_456240390
-- Сайт: Не задавай мета вопросы https://nometa.xyz/ru.html
-- Статья: Как задавать вопросы осмысленно https://habr.com/ru/companies/oleg-bunin/articles/673594/
+- Видео: [Стажировка в Яндексе ➤ Полное прохождение](https://vk.com/video-11283947_456240390)
+- Сайт: [Не задавай мета вопросы](https://nometa.xyz/ru.html)
+- Статья: [Как задавать вопросы осмысленно](https://habr.com/ru/companies/oleg-bunin/articles/673594/)
 
 ## Двигайся дальше
 
-- Книга: Мартин роберт - Идеальный программист https://books.yandex.ru/books/zciJJl9C
-- Статья: Кто такой T-shaped специалист https://www.unisender.com/ru/glossary/chto-takoe-t-shaped-podhod/
-- Статья: Как стать руководителем в Яндексе https://education.yandex.ru/journal/kak-stat-rukovoditelem-v-yandekse
+- Книга: [Роберт Мартин - Идеальный программист](https://books.yandex.ru/books/zciJJl9C)
+- Статья: [Кто такой T-shaped специалист](https://www.unisender.com/ru/glossary/chto-takoe-t-shaped-podhod/)
+- Статья: [Как стать руководителем в Яндексе](https://education.yandex.ru/journal/kak-stat-rukovoditelem-v-yandekse)
 
 ## Вместо эпилога
 
-**Оставь отзыв о выступлении** https://docs.google.com/forms/d/e/1FAIpQLSdvb0FqgMdnEMqAL3xB9Kt0H7C1lY-ob0S1QfgO3C_YJEKxfw/viewform
+[**Оставь отзыв о выступлении**](https://docs.google.com/forms/d/e/1FAIpQLSdvb0FqgMdnEMqAL3xB9Kt0H7C1lY-ob0S1QfgO3C_YJEKxfw/viewform)
