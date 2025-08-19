@@ -28,19 +28,14 @@
 
 - Сайт: [Дорожные карты профессий Roadmap.sh](https://roadmap.sh/)
 - Сайт: [Пример дорожной карты тестировщика](https://teletype.in/@how_to_code_web3/QA_Full_Roadmap)
-
-Где ознакомиться с требованиями:
-
-- **Сайт:** [**Топ 1 агрегатор вакансий в России** HeadHunter](https://hh.ru)
-- **Сайт:** [**Круглогодичные стажировки Яндекса**](https://yandex.ru/yaintern/)
-- **Сайт:** [**Агрегатор стажировок Future Today**](https://fut.ru/)
-- Сайт: [Агрегатор IT стажировок Future Today](https://it.fut.ru/)
-- Сайт: [Карьерная платформа Changellenge](https://changellenge.com/)
+- [Познакомиться с требованиями в вакансиях](#agregators)
 
 ## Подбери свой трек обучения
 
 - Сайт: [Школа 21](https://21-school.ru/)
 - **Сайт:** [**Полезные материалы для подготовки** от Яндекса](https://yandex.ru/yaintern/schools/useful)
+- Сайт: [Изучаем git на LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU)
+- Сайт: [Быстрое погружение в языки программирования: Learn X in Y minutes](https://learnxinyminutes.com/)
 
 Книги:
 
@@ -56,6 +51,7 @@
 - **Сайт:** [**Летние школы Яндекса**](https://yandex.ru/yaintern/schools/summer)
 - **Сайт:** [**Открытый лекторий Яндекса**](https://yandex.ru/yaintern/schools/open-lectures)
 - Видео: [Young && Yandex (записи лекций и летних школ)](https://www.youtube.com/@Young_and_Yandex/playlists)
+- Сайт: [Хендбуки Яндекса по ключевым IT дисциплинам](https://education.yandex.ru/handbook)
 - Канал: [Яндекс Образование](https://t.me/Education_Yandex)
 - Сайт: [Т-Курсы](https://education.tbank.ru/study/fintech/)
 - Канал: [T-Образование](https://t.me/tbank_education)
@@ -73,6 +69,7 @@
 - Статья: [18 идей пет-проектов для digital-специалистов](https://www.unisender.com/ru/blog/idei-pet-proektov-dlya-digital-specialistov/)
 - Статья: [Пет-проект: как его создать и где взять идеи от Практикум](https://practicum.yandex.ru/blog/chto-takoe-pet-proekty-idei-dlya-novichkov/)
 - Видео: [Shorts Артема Шумейко – Где взять идею для пет-проекта](https://youtube.com/shorts/MPGZxbHaw5w)
+- GitHub: [Примеры: Build your own <insert-technology-here>](https://github.com/codecrafters-io/build-your-own-x)
 - GitHub: [Пример нашего с Захаром пет-проекта: телеграм бот для быстрого поиска пиров в кампусе Школы 21](https://github.com/drveles-X-zkhrg/campus_map_bot)
 - GitHub: [Пример калькулятора на C++](https://github.com/drveles/calculator_2)
 
@@ -121,7 +118,7 @@
 
 Карьерные сайты российских компаний:<a id="career-sites"></a>
 
-- **Сайт:** [**Стажировки Яндекс**](https://yandex.ru/yaintern/)
+- **Сайт:** [**Круглогодичные стажировки Яндекс**](https://yandex.ru/yaintern/)
 - Сайт: [Работа в Яндекс](https://yandex.ru/jobs)
 - Сайт: [Стажировка Т-Банк](https://education.tbank.ru/start/)
 - Сайт: [Стажировки Авито](https://start.avito.ru/)
