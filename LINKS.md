@@ -204,3 +204,5 @@
 ## Вместо эпилога
 
 **Форма:** [**Оставь отзыв о выступлении**](https://docs.google.com/forms/d/e/1FAIpQLSdvb0FqgMdnEMqAL3xB9Kt0H7C1lY-ob0S1QfgO3C_YJEKxfw/viewform)
+
+Если хотите добавить что-то в этот список – напишите [мне](https://t.me/drveles) или сделайте Pull Request в этот репозиторий.
