@@ -100,6 +100,7 @@
 - Видео: [Вывести резюме в Топ 1 на HeadHunter](https://www.youtube.com/watch?v=E4Nd-_A4me4)
 - Видео: [Как написать резюме, чтобы вас не игнорили](https://www.youtube.com/watch?v=RUp2HwofyhI)
 - Сайт: [Конструктор LaTeX резюме, шаблон Джейка (Jake's template)](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
+- Статья: [Рекрутеры Google всегда пользуются формулой XYZ для анализа резюме](https://hr-portal.ru/story/rekrutery-google-vsegda-polzuyutsya-formuloy-x-y-z-dlya-analiza-rezyume-soiskateley)
 - Статья: [Как сделать резюме, которое дойдёт до работодателя, пройдет ATS](https://habr.com/ru/articles/868344/)
 
 ## Продай свой опыт
