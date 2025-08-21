@@ -19,7 +19,7 @@
 Фролов Василий aka jenniffr
 
 - Личка: [Личный аккаунт в телеграм](https://t.me/drveles)
-- **Канал:** [**Технический канал Код Василий** в телеграм](https://t.me/code_vasilii)
+- **Канал:** [**Технический канал Код Василий в телеграм**](https://t.me/code_vasilii)
 - Канал: [Личный блог Кот Василий в телеграм](https://t.me/drveless)
 - Статья: [Год, месяц и день в Школе 21](https://telegra.ph/God-mesyac-i-den-v-SHkole-21-11-24)
 - Пост: [Пир года Career Buddy Of The Year 2024: пост в канале](https://t.me/code_vasilii/13)
