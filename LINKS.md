@@ -26,6 +26,7 @@
 
 ## Найди себя и цель
 
+- Статья: [Как выбрать профессию?](https://practicum.yandex.ru/promo/work-guide/kak-vybrat-it-ili-digital-professiyu/)
 - Сайт: [Дорожные карты профессий Roadmap.sh](https://roadmap.sh/)
 - Сайт: [Пример дорожной карты тестировщика](https://teletype.in/@how_to_code_web3/QA_Full_Roadmap)
 - [Познакомиться с требованиями в вакансиях](#agregators)
